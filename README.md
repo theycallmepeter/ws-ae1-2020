@@ -1,1 +1,2 @@
 "# ws-ae1-2020" 
+To run the notebook, first you must have all the packages used installed (I left commented pip install lines to take care of that), then just run the cells sequentially changing the sample parameter to false if you have a db running or leaving it at true if you wish to run from a json file. The code should work however keep in mind the parameters were tuned for the full dataset so they may not work as intended.
